@@ -2,7 +2,7 @@
 
 ## 🌐 Project Info
 
-**Website**: [https://agri-alert-nine.vercel.app/](https://agri-alert-nine.vercel.app/)
+**Website**: [[(https://agrialert-627730094321.us-central1.run.app/)](https://agrialert-627730094321.us-central1.run.app/)]
 **GitHub Repository**: [https://github.com/Team-yapac/AgriAlert.git](https://github.com/Team-yapac/AgriAlert.git)
 
 AgriAlert is a smart agricultural assistant that provides farmers with real-time weather alerts, AI-driven advice, and crop-specific guidance to make informed decisions and protect their livelihood.
